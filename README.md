@@ -6,4 +6,7 @@ Automatización robótica de procesos con UiPath
 - Mi_nombre_de_unicornio.rar
 - Ingresar_proveedor.rar
 
+
+Diferencias entre Uipath Studio y StudioX
+
 ![image](https://user-images.githubusercontent.com/91063120/143303112-a5b72180-5d33-448b-b646-1bbf8f6cc0d7.png)
