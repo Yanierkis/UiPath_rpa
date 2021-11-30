@@ -16,4 +16,5 @@ Diferencias entre Uipath Studio y StudioX
 ![image](https://user-images.githubusercontent.com/91063120/143303335-6ae9dc23-0c01-43c3-85cc-446c2bed6fae.png)
 
 - Condicion.rar
+- Iteraciones.rar
 
