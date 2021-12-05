@@ -1,7 +1,7 @@
 # UiPath_rpa 
 Automatización robótica de procesos con UiPath
 - PrimerRobot(Calculadora)->Están en la carpeta principal
-- SegundoRobot Grabación
+- SegundoRobot Grabación------>Solo se puede grabar en interfaces de usuario
 - Hola_mundo.rar
 - Mi_nombre_de_unicornio.rar
 - Ingresar_proveedor.rar
@@ -19,5 +19,6 @@ Diferencias entre Uipath Studio y StudioX
 - Iteraciones.rar
 - Escenarios.rar
 - Practise-Working with Multiples Templates.rar
-- IU_básco
+- IU_básico
+- IU_Grabadora-----> Solo se puede grabar en interfaces de usuario
 
