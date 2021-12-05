@@ -18,4 +18,5 @@ Diferencias entre Uipath Studio y StudioX
 - Condicion.rar
 - Iteraciones.rar
 - Escenarios.rar
+- Practise-Working with Multiples Templates.rar
 
