@@ -22,4 +22,4 @@ Diferencias entre Uipath Studio y StudioX
 - <b>IU_básico</b>
 - <b>IU_Grabadora</b>-----> Solo se puede grabar en interfaces de usuario
 - <b>Rpa_challenge</b>
-
+- <b>Organizar_carpetas</b>
