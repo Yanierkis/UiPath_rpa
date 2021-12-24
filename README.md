@@ -24,3 +24,4 @@ Diferencias entre Uipath Studio y StudioX
 - <b>Rpa_challenge</b>
 - <b>Organizar_carpetas</b>
 - <b>Automatizacion_outlook</b>
+- <b>Automatizacion_gmail</b>
