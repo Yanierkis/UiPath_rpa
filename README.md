@@ -27,3 +27,4 @@ Diferencias entre Uipath Studio y StudioX
 - <b>Automatizacion_gmail</b>
 - <b>Automatizar_excel</b>
 - <b>Extracción_tablas</b>
+- <b>Informes_ventas_libros</b>
