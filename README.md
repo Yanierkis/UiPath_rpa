@@ -29,3 +29,4 @@ Diferencias entre Uipath Studio y StudioX
 - <b>Extracción_tablas</b>
 - <b>Informes_ventas_libros</b>
 - <b>Automatizar_presentaciones</b>
+![image](https://user-images.githubusercontent.com/91063120/147595347-73675d68-cfb3-4769-9e01-ade4df2fab56.png)
